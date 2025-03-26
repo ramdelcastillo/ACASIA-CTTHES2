@@ -1,0 +1,11 @@
+{
+    "json_file": "C:\\Shared\\save_updated.json",
+    "raw_data": "raw_data.csv",
+    "backup_data": "raw_data_unprocessed.csv",
+    "imputed_data": "imputed_data.csv",
+    "derived_data": "derived_data.csv",
+    "transformed_data": "transformed_data.csv",
+    "tracker_file": "last_processed_log.txt",
+    "config_db": "config_db.csv",
+    "log_file": "preprocessing.log"
+}
